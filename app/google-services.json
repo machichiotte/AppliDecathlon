@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "331337514901",
+    "firebase_url": "https://applidecathlon.firebaseio.com",
+    "project_id": "applidecathlon",
+    "storage_bucket": "applidecathlon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331337514901:android:3ca5f7e0407e318c",
+        "android_client_info": {
+          "package_name": "com.android.applidecathlon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331337514901-3dnhovev3k9077vomj11oq1sc8gut3td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATFGZ4FP12QRuQJXi7wN05rbiSYp9VTKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

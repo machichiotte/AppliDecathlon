@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AppliDecathlon</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm Password</string>
+
+    <string name="login">Login</string>
+    <string name="create">Create account</string>
+    <string name="create_my">Create my account</string>
+    <string name="next">Next</string>
+    <string name="logout">Logout</string>
+    <string name="change">Change store</string>
+
+    <string name="hello">Hello</string>
+    <string name="prefered_my">Your prefered store is :</string>
+    <string name="prefered_store">My prefered Decathlon store :</string>
+    <string name="id">ID :</string>
+    <string name="name">Name :</string>
+    <string name="director">Director :</string>
+    <string name="country">Country :</string>
+    <string name="address">Address :</string>
+
+    <string name="firstname_str">Enter firstname!</string>
+    <string name="lastname_str">Enter lastname!</string>
+    <string name="email_str">Enter email address!</string>
+    <string name="password_str">Enter password!</string>
+    <string name="password_short">Password too short, enter minimum 6 characters!</string>
+    <string name="password_wrong">Wrong password!</string>
+    <string name="logpass_wrong">Wrong login/password!</string>
+
+</resources>
