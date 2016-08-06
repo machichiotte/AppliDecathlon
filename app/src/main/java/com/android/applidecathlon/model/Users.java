@@ -20,13 +20,12 @@ public class Users {
 
     }
 
-    /*
     public Users(String email, String firstname, String lastname, String store) {
         this.email = email;
         this.firstname = firstname;
         this.lastname = lastname;
         this.store = store;
-    }*/
+    }
 
     public String getEmail() {
         return email;

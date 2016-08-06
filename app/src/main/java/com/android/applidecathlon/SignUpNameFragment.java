@@ -13,6 +13,7 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
+import com.android.applidecathlon.model.Users;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
@@ -143,7 +144,7 @@ public class SignUpNameFragment extends Fragment {
     }
 
     private void writeNewUser(String firstname, String lastname, String email, String uid) {
-        User user = new User(firstname, lastname, email, "store_null");
+        Users user = new Users(firstname, lastname, email, "store_null");
 
         mDatabase.child("users").child(uid).setValue(user);
         Log.e("dbtest", mDatabase.child("users").child(uid).toString());
